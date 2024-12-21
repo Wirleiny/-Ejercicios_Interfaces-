@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\bin\Debug\Prueba_Técnica _Wirleiny.exe.config
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\bin\Debug\Prueba_Técnica _Wirleiny.exe
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\bin\Debug\Prueba_Técnica _Wirleiny.pdb
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica _Wirleiny.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica__Wirleiny.Form1.resources
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica__Wirleiny.Properties.Resources.resources
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica _Wirleiny.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica _Wirleiny.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica _Wirleiny.exe
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica _Wirleiny.pdb
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica__Wirleiny.Proveedores.resources
+C:\Users\DELL\source\repos\Prueba_Técnica _Wirleiny\Prueba_Técnica _Wirleiny\obj\Debug\Prueba_Técnica__Wirleiny.Productos.resources
