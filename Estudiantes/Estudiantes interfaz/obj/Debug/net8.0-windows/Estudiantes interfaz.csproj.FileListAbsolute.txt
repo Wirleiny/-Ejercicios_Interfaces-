@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\bin\Debug\net8.0-windows\Estudiantes interfaz.exe
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\bin\Debug\net8.0-windows\Estudiantes interfaz.deps.json
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\bin\Debug\net8.0-windows\Estudiantes interfaz.runtimeconfig.json
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\bin\Debug\net8.0-windows\Estudiantes interfaz.dll
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\bin\Debug\net8.0-windows\Estudiantes interfaz.pdb
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes_interfaz.Form1.resources
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.dll
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\refint\Estudiantes interfaz.dll
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.pdb
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes interfaz.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\ref\Estudiantes interfaz.dll
+C:\Users\DELL\source\repos\Estudiantes interfaz\Estudiantes interfaz\obj\Debug\net8.0-windows\Estudiantes_interfaz.Properties.Resources.resources
