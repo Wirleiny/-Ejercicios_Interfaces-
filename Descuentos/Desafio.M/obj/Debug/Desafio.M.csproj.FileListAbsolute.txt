@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\bin\Debug\Desafio.M.exe.config
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\bin\Debug\Desafio.M.exe
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\bin\Debug\Desafio.M.pdb
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\obj\Debug\Desafio.M.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\obj\Debug\Desafio.M.Form1.resources
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\obj\Debug\Desafio.M.Properties.Resources.resources
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\obj\Debug\Desafio.M.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\obj\Debug\Desafio.M.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\obj\Debug\Desafio.M.exe
+C:\Users\DELL\source\repos\Desafio.M\Desafio.M\obj\Debug\Desafio.M.pdb
